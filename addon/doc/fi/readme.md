@@ -1,14 +1,14 @@
-# TextNav #
+# Tekstinavigointi #
 
 * Tekijä: Tony Malykh
 * Lataa [vakaa versio][1]
 
-TextNavin avulla voit etsiä tekstiä verkkosivuilta luettavaksi yhdellä
-näppäinkomennolla. Tämä tehdään komennoilla, jotka siirtävät seuraavaan tai
-edelliseen tekstikappaleeseen - ts. kappaleeseen, jossa on yksi tai useampi
-lause. Tästä ominaisuudesta voi olla hyötyä, mikäli halutaan löytää nopeasti
-verkkosivujen tekstiosa tai ohittaa valikot, mainokset ja muut epäolennaiset
-elementit.
+Tekstinavigoinnin avulla voit etsiä tekstiä verkkosivuilta luettavaksi
+yhdellä näppäinkomennolla. Tämä tehdään komennoilla, jotka siirtävät
+seuraavaan tai edelliseen tekstikappaleeseen - ts. kappaleeseen, jossa on
+yksi tai useampi lause. Tästä ominaisuudesta voi olla hyötyä, mikäli
+halutaan löytää nopeasti verkkosivujen tekstiosa tai ohittaa valikot,
+mainokset ja muut epäolennaiset elementit.
 
 ## Näppäinkomennot:
 * Alt+Vaihto+Nuoli alas: Siirrä seuraavaan tekstikappaleeseen.
