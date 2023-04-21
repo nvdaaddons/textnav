@@ -15,4 +15,4 @@ izbornika, oglasa i ostalih manje važnih elemenata na stranici.
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=textnav
+[1]: https://www.nvaccess.org/addonStore/legacy?file=textnav

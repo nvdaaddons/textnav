@@ -16,4 +16,4 @@ menus, propagandas ou outros elementos não importantes da página.
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=textnav
+[1]: https://www.nvaccess.org/addonStore/legacy?file=textnav
